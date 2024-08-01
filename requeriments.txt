@@ -2,3 +2,6 @@ requests
 pandas
 ipykernel
 streamlit
+serpapi
+airflow
+google-search-results
